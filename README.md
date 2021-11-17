@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @byquip
-- 👀 I’m interested in Simulations of HCPCF
+- 👋 Hi, I’m @byquip PhD student at GPPMM group of XLIM.
+- 👀 I’m interested in numerical Simulations of HCPCF.
 - 🌱 I’m currently learning everething that can be usefull for my topics.
 - 💞️ I’m looking to collaborate on Creating a library for Eigenvalue solver with Python numpy type complex256.
 - 📫 How to reach me lifequip@gmail.com
