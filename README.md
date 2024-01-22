@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @byquip PhD student at GPPMM group of XLIM.
+- 👋 Hi, I’m @byquip PhD at GPPMM group of XLIM.
 - 👀 I’m interested in numerical Simulations of HCPCF.
 - 🌱 I’m currently learning everething that can be usefull for my topics.
 
